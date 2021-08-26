@@ -1,0 +1,27 @@
+{
+  "schemaVersion" : 1,
+  "id" : "mcfb",
+  "version" : "${version}",
+  "name" : "Mcfunction Benchmark",
+  "description" : "This mod allows you to mesure the time it takes to execute an mcfunction.",
+  "authors" : [ "krypek" ],
+  "contact" : {
+    "homepage" : "",
+    "sources" : "https://github.com/krypciak/MCFunction-Benchmark"
+  },
+  "license" : "MIT",
+  "icon" : "assets/mcfb/icon.png",
+  "environment" : "*",
+  "entrypoints" : {
+    "main" : [ "me.krypek.mcfb.mcfb" ]
+  },
+  "depends" : {
+    "fabricloader" : ">=0.11.3",
+    "fabric" : "*",
+    "minecraft" : "1.17.x",
+    "java" : ">=16"
+  },
+  "suggests" : {
+    "another-mod" : "*"
+  }
+}

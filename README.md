@@ -7,6 +7,8 @@ See branches: [1.17.x](https://github.com/krypciak/MCFunction-Benchmark/tree/1.1
 
 Command syntax:  
 `/mcfb *selector* *function*`  
+`*selector*` specifies players that the output will be shown to
+
 Example:  
 `/mcfb @a my:function`  
 <br><br>

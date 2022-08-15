@@ -6,7 +6,7 @@ See branches: [1.17.x](https://github.com/krypciak/MCFunction-Benchmark/tree/1.1
 <a href="https://github.com/krypciak/MCFunction-Benchmark/blob/fd393a578bf1538e171a368b56c255f3b8a3d991/logo.png"><img src="https://github.com/krypciak/MCFunction-Benchmark/blob/fd393a578bf1538e171a368b56c255f3b8a3d991/logo.png" width="128" height="128"/></a>
 
 Command syntax:  
-`/mcfb **_selector_** **_function_**`  
+`/mcfb *selector* *function*`  
 Example:  
 `/mcfb @a my:function`  
 <br><br>

@@ -9,7 +9,7 @@
     "homepage" : "",
     "sources" : "https://github.com/krypciak/MCFunction-Benchmark"
   },
-  "license" : "MIT",
+  "license" : "GPLv3 or newer",
   "icon" : "assets/mcfb/icon.png",
   "environment" : "*",
   "entrypoints" : {
@@ -18,8 +18,8 @@
   "depends" : {
     "fabricloader" : ">=0.11.3",
     "fabric" : "*",
-    "minecraft" : "1.17.x",
-    "java" : ">=16"
+    "minecraft" : ">=1.19",
+    "java" : ">=17"
   },
   "suggests" : {
     "another-mod" : "*"

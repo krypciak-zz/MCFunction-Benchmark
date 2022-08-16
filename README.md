@@ -15,3 +15,8 @@ Example:
 
 `/mcfb @a #minecraft:load`  
 <a href="https://github.com/krypciak/MCFunction-Benchmark/blob/972e91c35829e95b2bbda8f0da5e86ab10e1968f/example.png"><img src="https://github.com/krypciak/MCFunction-Benchmark/blob/972e91c35829e95b2bbda8f0da5e86ab10e1968f/example.png"/></a>
+
+<br>
+
+# License
+Licensed under GNU GPLv3 or later
